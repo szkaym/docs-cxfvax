@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-9potuw.deepnode.ru/sitemap.xml
